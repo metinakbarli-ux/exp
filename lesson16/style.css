@@ -1,0 +1,24 @@
+.pad1{
+    border: 5px solid red;
+    padding: 50px ;
+    background-color: darksalmon;
+    color: aliceblue;
+}
+.pad2{
+    border: 10px solid blueviolet;
+    padding: 60px;
+    background-color: brown;
+    color: aliceblue;
+}
+.pad3{
+    border: 15px solid tomato;
+    padding: 65px;
+    background-color: rgb(30, 161, 212);
+    color: aliceblue;
+}
+.pad4{
+    border: 20px solid rgb(0, 231, 173);
+    padding: 60px;
+    background-color: brown;
+    color: aliceblue;
+}
