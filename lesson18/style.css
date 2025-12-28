@@ -1,7 +1,7 @@
 p{
     color: brown;
-    text-decoration: underline;
-    text-transform: capitalize;
+    text-decoration: overline;
+    text-transform: lowercase;
     letter-spacing: 2px;
     word-spacing: 10px;
     text-indent: 80px;
