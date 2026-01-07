@@ -1,0 +1,12 @@
+.ttt {
+    color: burlywood;
+    width: 250px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: justify;
+}
+
+.ttt h3 {
+    font-weight: bold;
+}
