@@ -1,0 +1,11 @@
+div{
+    border: 2px solid black;
+    display: inline;
+    margin: 6px;
+    border-radius: 5%;
+    padding: 6px; 
+    box-shadow: 3px 3px 3px black;   
+    color: aqua;
+    margin-top: 10px;
+    margin-right: 10px;
+}
