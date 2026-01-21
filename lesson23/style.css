@@ -1,0 +1,20 @@
+.block1{
+    margin: 10px;
+    position: relative;
+    border: 2px solid blueviolet;
+    left: 75px;
+    top: 10px;
+    width: 500px;
+    height: 500px;
+    
+}
+.block2{
+    margin: 10px;
+    border: 2px solid blue;
+    position: relative;
+    left: 75px;
+    top: 10px;
+    width: 500px;
+    height: 500px;
+
+}
