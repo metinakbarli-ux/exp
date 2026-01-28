@@ -1,0 +1,13 @@
+
+.p{
+    width: 500px;
+    height: 500px;
+    border:2px solid black;
+    border-radius: 2px;
+    background-color: aqua;
+}
+.p img{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
